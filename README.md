@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhamadhabilputrawan/muhamadhabilputrawan/main/assets/header.svg" alt="Muhamad Habil Putrawan - Mobile Application Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/muhamadhabilputrawan/muhamadhabilputrawan/main/assets/header.svg" alt="Biel - Mobile Application Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Mobile Application Developer** and Software Engineer from Indonesia, dedicated to engineering clean, responsive, and intuitive cross-platform applications. My core expertise centers on **Flutter & Dart**, with solid hands-on experience building structured **RESTful APIs** using **Laravel** and **Node.js / Express**.
+I am **Biel** (Muhamad Habil Putrawan), a dedicated **Mobile Application Developer** and Software Engineer from Indonesia, passionate about engineering clean, responsive, and intuitive cross-platform applications. My core expertise centers on **Flutter & Dart**, with solid hands-on experience building structured **RESTful APIs** using **Laravel** and **Node.js / Express**.
 
 - 📱 **Mobile Development**: Crafting pixel-perfect, native-feeling UIs, robust state management, and seamless animations with Flutter.
 - ⚙️ **Backend & APIs**: Developing secure backend services, JWT authentication, and database schemas with Laravel, Express.js, and PostgreSQL / MySQL.
@@ -101,5 +101,5 @@ I am a passionate **Mobile Application Developer** and Software Engineer from In
 ---
 
 <p align="center">
-  <sub>Designed with precision for professional impact &bull; © <b>Muhamad Habil Putrawan</b></sub>
+  <sub>Designed with precision for professional impact &bull; © <b>Biel (Muhamad Habil Putrawan)</b></sub>
 </p>

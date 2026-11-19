@@ -72,9 +72,9 @@
     </g>
 
     <!-- Name & Titles -->
-    <text x="0" y="55" class="font-sans title">Muhamad Habil Putrawan</text>
+    <text x="0" y="55" class="font-sans title">Biel</text>
     <text x="0" y="80" class="font-sans subtitle">Mobile Application Developer</text>
-    <text x="0" y="103" class="font-sans desc">Crafting performant cross-platform mobile apps &amp; RESTful APIs</text>
+    <text x="0" y="103" class="font-sans desc">Muhamad Habil Putrawan &#8226; Cross-Platform &amp; RESTful APIs</text>
 
     <!-- Skill Tags -->
     <g transform="translate(0, 130)">
@@ -121,7 +121,7 @@
     <!-- Code Content -->
     <g transform="translate(18, 48)" class="font-mono code-text">
       <text y="0"><tspan class="code-bracket">{</tspan></text>
-      <text y="19"><tspan dx="12" class="code-prop">"name"</tspan>: <tspan class="code-str">"Muhamad Habil Putrawan"</tspan>,</text>
+      <text y="19"><tspan dx="12" class="code-prop">"name"</tspan>: <tspan class="code-str">"Biel (Habil Putrawan)"</tspan>,</text>
       <text y="38"><tspan dx="12" class="code-prop">"role"</tspan>: <tspan class="code-str">"Mobile App Developer"</tspan>,</text>
       <text y="57"><tspan dx="12" class="code-prop">"core"</tspan>: <tspan class="code-bracket">[</tspan><tspan class="code-str">"Flutter"</tspan>, <tspan class="code-str">"Dart"</tspan><tspan class="code-bracket">]</tspan>,</text>
       <text y="76"><tspan dx="12" class="code-prop">"backend"</tspan>: <tspan class="code-bracket">[</tspan><tspan class="code-str">"Laravel"</tspan>, <tspan class="code-str">"Express"</tspan><tspan class="code-bracket">]</tspan>,</text>
