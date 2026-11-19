@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Muhamad Habil Putrawan - Mobile Application Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/muhamadhabilputrawan/muhamadhabilputrawan/main/assets/header.svg" alt="Muhamad Habil Putrawan - Mobile Application Developer" width="100%" />
 </p>
 
 <p align="center">
