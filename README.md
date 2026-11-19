@@ -39,6 +39,8 @@ I am a passionate **Mobile Application Developer** and Software Engineer from In
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod" />
+      <img src="https://img.shields.io/badge/Google_ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google ML Kit" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
     </td>
   </tr>
@@ -80,6 +82,7 @@ I am a passionate **Mobile Application Developer** and Software Engineer from In
 
 | Project | Tech Stack | Description | Link |
 |:---|:---|:---|:---:|
+| **BERSEKA Mobile App** <br/><sub>*(Team Collaboration)*</sub> | `Flutter` `Dart` `Riverpod` `ML Kit OCR` | Enterprise community waste management mobile app (Warga, Mahasiswa KKN, Petugas). Features on-device ML Kit OCR digital scale digitizer, QR scanning, geofencing, and offline sync. | [Live Platform](https://berseka.id) &bull; [Ecosystem Repo](https://github.com/Fajarbaharis/Pilah-Sampah-Cerdas) |
 | **Basket Court Booking App** | `Flutter` `Dart` | Mobile application for sports arena reservation with intuitive UI slicing, real-time schedule preview, and smooth booking flow. | [View Code](https://github.com/mhpcieo/Slicing_fieldloan) |
 | **Buy Ticket App** | `Flutter` `Dart` | Cross-platform ticketing platform complete with an administrative dashboard, responsive layouts, and organized data visualization. | [View Code](https://github.com/mhpcieo/slicingtiket) |
 | **Hurben Rekreasi Platform** | `Laravel` `MySQL` `PHP` | Amusement park ticket booking system featuring secure JWT authentication, input validation, and clean RESTful API architecture. | [View Code](https://github.com/mhpcieo/Hurbenrekreasi) |
